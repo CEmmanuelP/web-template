@@ -26,6 +26,12 @@ const IndexPage = () => {
                     >
                         panorama page
                     </NavLink>
+                    <NavLink
+                        to="/cd-player"
+                        className="p-4 text-center border border-solid rounded-md border-emerald-300"
+                    >
+                        cd player
+                    </NavLink>
                 </div>
             </div>
         </>
