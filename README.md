@@ -1,13 +1,3 @@
-# Softsquared React Education Template
+# Design-Assets
 
-소프트스퀘어드 React 교육용 템플릿입니다.  
-해당 템플릿에서 바로 프로젝트를 진행하기 보다는, 템플릿을 충분히 이해한 뒤 새로운 프로젝트를 만들어 필요한 코드들을 옮기면서 작업을 진행하는걸 권장합니다.
-
-
-## 기초셋팅
-- 최초 실행시 npm install 명령어를 통하여 읜존성 모듈을 설치합니다.
-- .git 폴더를 제거하고, 여러분들의 git 저장소로 셋팅을 합니다. (.git 폴더가 없다면 건너뛰기)
-- npm run start 명령어를 통하여 프로젝트를 실행시킵니다.
-
-
-## 폴더구조
+-   Webpage를 구성하는 여러 design component들을 구현한 것을 모아놓은 프로젝트
