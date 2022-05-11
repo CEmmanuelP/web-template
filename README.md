@@ -1,3 +1,3 @@
-# Design-Assets
+# Web Template
 
--   Webpage를 구성하는 여러 design component들을 구현한 것을 모아놓은 프로젝트
+- 프로젝트를 편하게 시작할 수 있게 기본 세팅을 해놓은 프로젝트
